@@ -1,0 +1,60 @@
+body{
+  background-image: url("img/background.jpg");
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container{
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 5px;
+  text-align: center;
+  width:1000px;
+  height: 800px;
+  margin: auto;
+  padding: 80px;
+  box-sizing: border-box;
+}
+
+#logo{
+  width: 250px;
+}
+
+.title{
+  color: rgb(57,255,20);
+}
+
+nav{
+  background-color: rgb(57,255,20);
+  height: 40px;
+  line-height: 40px;
+}
+
+main{
+  text-align: left;
+  margin-top: 20px;
+  color: white;
+}
+
+.Articolo {
+  font-size: 30px;
+}
+
+.energia{
+    border-radius: 5px;
+    height: 25px;
+}
+
+.energia.gino{
+  width: 300px;
+  background-color:rgb(255,188,64);
+}
+
+.energia.Mlke24{
+  width: 600px;
+  background-color:rgb(0,187,0);
+}
+
+.energia.Fede154{
+  width: 150px;
+  background-color:rgb(203,50,52);
+}
